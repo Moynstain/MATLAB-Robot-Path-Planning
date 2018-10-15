@@ -15,22 +15,22 @@ Task 1
 ====
 Build a PUMA robot and move the end-effector to follow a linear trajectory along a sphere.
 
-[alt text](https://github.com/changh95/MATLAB-Robot-Path-Planning/blob/master/1.png?raw=true)
+![alt text](https://github.com/changh95/MATLAB-Robot-Path-Planning/blob/master/1.png?raw=true)
 
-[alt text](https://github.com/changh95/MATLAB-Robot-Path-Planning/blob/master/1_2.png?raw=true)
+![alt text](https://github.com/changh95/MATLAB-Robot-Path-Planning/blob/master/1_2.png?raw=true)
 
 Task 2
 ====
 Ensure that the end-effector is always perpendicular to the sphere surface.
 
-[alt text](https://github.com/changh95/MATLAB-Robot-Path-Planning/blob/master/2.png?raw=true)
+![alt text](https://github.com/changh95/MATLAB-Robot-Path-Planning/blob/master/2.png?raw=true)
 
-[alt text](https://github.com/changh95/MATLAB-Robot-Path-Planning/blob/master/2_2.png?raw=true)
+![alt text](https://github.com/changh95/MATLAB-Robot-Path-Planning/blob/master/2_2.png?raw=true)
 
 Task 3
 ====
 Repeat steps 1 and 2 keeping a constant velocity of the end-effector of 0.1m/s for a time-varying trajectory due to the sphere changing its size (is beating!)
 
-[alt text](https://github.com/changh95/MATLAB-Robot-Path-Planning/blob/master/3.png?raw=true)
+![alt text](https://github.com/changh95/MATLAB-Robot-Path-Planning/blob/master/3.png?raw=true)
 
-[alt text](https://github.com/changh95/MATLAB-Robot-Path-Planning/blob/master/3_2.png?raw=true)
+![alt text](https://github.com/changh95/MATLAB-Robot-Path-Planning/blob/master/3_2.png?raw=true)
